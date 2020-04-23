@@ -29,3 +29,5 @@ a || b; // va validar que solo a o b sea verdad para que se cumpla esa condició
 var edad = 40;
 edad++; //el valor de edad se va incrementar en uno.
 edad += 2; // el valor de edad va incrementar en dos. 
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
